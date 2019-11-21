@@ -1,6 +1,7 @@
 # Prueba django 1.0.0
 
 Inicio Versionado
+<<<<<<< HEAD
 
 ## Preparacion del entorno
 
@@ -33,3 +34,5 @@ Inicio Versionado
     1. Activar entorno virtual
     2. Correr `pip install django -U`
   ```
+=======
+>>>>>>> 8c6ec8736c317b7b1ff9d4ee2fa4c4bfb7924566
